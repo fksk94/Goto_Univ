@@ -1,6 +1,8 @@
 # Someone’s Choice(ver.Student)
 
+## 기획 의도
 
+##### UML을 공부하기 위해 만든 프로그램입니다.
 
 ## INDEX
 
